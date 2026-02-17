@@ -14,6 +14,12 @@ through a visually engaging star-map interface.
 
 <img src="./picture/1.png" alt="XMR.GOLD Ecosystem — Detail View" width="640">
 
+<br>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Ecosystem-F26822?style=for-the-badge&logo=monero&logoColor=white)](https://easynode.kerlann.org/ecosystem.html)
+
+[▶ Explore the Monero Ecosystem](https://easynode.kerlann.org/ecosystem.html)
+
 ---
 
 </div>
