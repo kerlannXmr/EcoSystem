@@ -10,9 +10,11 @@ through a visually engaging star-map interface.
 
 ---
 
-<img src="./picture/2.png" alt="XMR.GOLD Ecosystem — Main View" width="640">
+<img src="./picture/2.png" alt="XMR Ecosystem — Main View" width="540">
 
-<img src="./picture/1.png" alt="XMR.GOLD Ecosystem — Detail View" width="640">
+<img src="./picture/1.png" alt="XMR Ecosystem — Detail View" width="640">
+
+<img src="./picture/ecosystem.gif" alt="XMR Ecosystem — Detail View" width="640">
 
 <br>
 
