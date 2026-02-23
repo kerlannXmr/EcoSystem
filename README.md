@@ -9,6 +9,7 @@ Browse wallets, exchanges, nodes, payment solutions, mining tools, and community
 through a visually engaging star-map interface.
 
 ---
+# [▶ Explore the Monero Ecosystem](https://easynode.kerlann.org/ecosystem.html)
 
 <img src="./picture/2.png" alt="XMR Ecosystem — Main View" width="540">
 
